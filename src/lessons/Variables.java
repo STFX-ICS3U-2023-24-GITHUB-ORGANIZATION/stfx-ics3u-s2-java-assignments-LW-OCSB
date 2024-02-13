@@ -23,7 +23,7 @@ public class Variables {
 		final double TAX_RATE = 0.13;
 		
 		myBankAccountBalance = 1000000;  // modifiable
-		TAX_RATE = 0.16;  // error, we can't modify
+		//TAX_RATE = 0.16;  // error, we can't modify
 		
 	}
 
