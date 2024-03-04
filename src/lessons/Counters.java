@@ -73,7 +73,7 @@ public class Counters {
 			public void actionPerformed(ActionEvent e) {
 				
 				// down button code
-				counter--;
+				counter--; 
 				textField1.setText(Integer.toString(counter));
 			}
 		});
