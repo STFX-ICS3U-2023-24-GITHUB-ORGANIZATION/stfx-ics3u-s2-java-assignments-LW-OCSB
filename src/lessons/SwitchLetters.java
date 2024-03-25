@@ -14,7 +14,7 @@ public class SwitchLetters {
 		
 		switch(input)  {
 		
-		case "A": case "a": case 1:
+		case "A": case "a":
 			System.out.println("You entered A");
 			break;
 			
